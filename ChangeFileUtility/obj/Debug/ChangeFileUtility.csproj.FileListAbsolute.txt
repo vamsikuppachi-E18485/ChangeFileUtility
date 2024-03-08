@@ -1,0 +1,10 @@
+C:\Users\E18485\source\repos\ChangeFileUtility\ChangeFileUtility\bin\Debug\ChangeFileUtility.exe.config
+C:\Users\E18485\source\repos\ChangeFileUtility\ChangeFileUtility\bin\Debug\ChangeFileUtility.exe
+C:\Users\E18485\source\repos\ChangeFileUtility\ChangeFileUtility\bin\Debug\ChangeFileUtility.pdb
+C:\Users\E18485\source\repos\ChangeFileUtility\ChangeFileUtility\obj\Debug\ChangeFileUtility.csproj.AssemblyReference.cache
+C:\Users\E18485\source\repos\ChangeFileUtility\ChangeFileUtility\obj\Debug\ChangeFileUtility.Form1.resources
+C:\Users\E18485\source\repos\ChangeFileUtility\ChangeFileUtility\obj\Debug\ChangeFileUtility.Properties.Resources.resources
+C:\Users\E18485\source\repos\ChangeFileUtility\ChangeFileUtility\obj\Debug\ChangeFileUtility.csproj.GenerateResource.cache
+C:\Users\E18485\source\repos\ChangeFileUtility\ChangeFileUtility\obj\Debug\ChangeFileUtility.csproj.CoreCompileInputs.cache
+C:\Users\E18485\source\repos\ChangeFileUtility\ChangeFileUtility\obj\Debug\ChangeFileUtility.exe
+C:\Users\E18485\source\repos\ChangeFileUtility\ChangeFileUtility\obj\Debug\ChangeFileUtility.pdb
